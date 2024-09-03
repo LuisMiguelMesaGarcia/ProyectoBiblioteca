@@ -1,10 +1,5 @@
-# BibliotecaLaravel(back):
-git clone https://github.com/LuisMiguelMesaGarcia/BibliotecaLaravel.git
-
-# BibliotecaReact(front):
-git clone https://github.com/LuisMiguelMesaGarcia/BibliotecaReact.git
-
-
+# Proyecto biblioteca(back):
+git clone https://github.com/LuisMiguelMesaGarcia/ProyectoBiblioteca.git
 
 # Ejecutar el back
 ## ejecutar los sigueintes comandos en orden:
@@ -24,7 +19,9 @@ git clone https://github.com/LuisMiguelMesaGarcia/BibliotecaReact.git
 2. npm run dev (para ejecutar)
 
 ## Credenciales
+
 email: test@example.com
+
 password: 123
 
 ### Creado por: Luis Miguel Mesa García
