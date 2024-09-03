@@ -1,4 +1,4 @@
-# Proyecto biblioteca(back):
+# Proyecto biblioteca:
 git clone https://github.com/LuisMiguelMesaGarcia/ProyectoBiblioteca.git
 
 # Ejecutar el back
