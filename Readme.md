@@ -23,5 +23,9 @@ git clone https://github.com/LuisMiguelMesaGarcia/BibliotecaReact.git
 1. npm install
 2. npm run dev (para ejecutar)
 
+## Credenciales
+email: test@example.com
+password: 123
+
 ### Creado por: Luis Miguel Mesa García
 
