@@ -1,6 +1,10 @@
 # Proyecto biblioteca:
 git clone https://github.com/LuisMiguelMesaGarcia/ProyectoBiblioteca.git
 
+# Versiones:
+React: 18.3.1
+Laravel Framework: 11.21.0
+
 # Ejecutar el back
 ## ejecutar los sigueintes comandos en orden:
 
